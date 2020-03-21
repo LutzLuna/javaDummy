@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
+	int numA = 10;
+	int numB = 20;
+	int resultado = 0; 
         System.out.println("calculadoraGit");
 	// agrego division
 	resultado = numA / numB;
