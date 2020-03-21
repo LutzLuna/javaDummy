@@ -4,8 +4,20 @@ public class Main {
 	int numB = 20;
 	int resultado = 0; 
         System.out.println("calculadoraGit");
+<<<<<<< HEAD
 	// agrego division
 	resultado = numA / numB;
         System.out.println("El resultado de la division es : ", resultado);
+=======
+
+	// agrego suma
+	resultado = numA + numB;
+        System.out.println("El resultado de la suma es : ", resultado);
+
+	// agrego resta
+	resultado = numA - numB;
+        System.out.println("El resultado de la resta es : ", resultado);
+
+>>>>>>> master
     }
 }
