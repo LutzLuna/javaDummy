@@ -16,10 +16,13 @@ public class Main {
 	// agrego resta
 	resultado = numA - numB;
         System.out.println("El resultado de la resta es : ", resultado);
+<<<<<<< HEAD
 
 	// agrego multiplicacion	
 	resultado = numA * numB;
         System.out.println("El resultado de la multiplicacion es : ", resultado);
 
+=======
+>>>>>>> parent of 21ba12b... Merge branch 'master' of https://github.com/LutzLuna/javaDummy
     }
 }
