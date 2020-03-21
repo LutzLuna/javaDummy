@@ -17,6 +17,9 @@ public class Main {
 	resultado = numA - numB;
         System.out.println("El resultado de la resta es : ", resultado);
 
-        System.out.println("calculadoraNube");
+	// agrego multiplicacion	
+	resultado = numA * numB;
+        System.out.println("El resultado de la multiplicacion es : ", resultado);
+
     }
 }
