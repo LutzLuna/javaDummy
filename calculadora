@@ -4,5 +4,8 @@ public class Main {
 	int numB = 20;
 	int resultado = 0; 
         System.out.println("calculadoraGit");
+	// agrego resta
+	resultado = numA - numB;
+        System.out.println("El resultado de la resta es : ", resultado);
     }
 }
